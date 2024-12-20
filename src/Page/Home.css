@@ -1,0 +1,26 @@
+.home-page{
+    max-width: 87%;
+    width: 87%;
+    height: 100%;
+    background-color:#f4e3e1;
+    display: flex;
+    position: fixed; 
+    right: 0;
+    overflow: auto; 
+    justify-content: center;
+}
+.home-contain{
+   text-align: center;
+   margin-top: 50px;
+   letter-spacing: 3px;
+}
+.home-contain h1{
+    margin-bottom: 5px;
+     font-weight: 300;
+     color: #34637e;
+}
+.home-contain h2{
+    font-weight: 300;
+    margin-bottom: 40px;
+    color: #095f91;
+}
